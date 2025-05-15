@@ -51,7 +51,7 @@ interests:
 
 education:
   - area: PhD in Microbiology
-    institution: Hans Knoell Instistute
+    institution: Hans Knoell Instistute, Germany
     date_start: 2021-06-16
     date_end: 2025-10-31
     summary: |
@@ -72,7 +72,7 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: BSc in Gardening
-    institution: Hainan University
+    institution: Hainan University, Germany
     date_start: 2012-09-01
     date_end: 2016-06-01
     summary: |
