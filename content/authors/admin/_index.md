@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 潘晓清
+title: PAN Xiaoqing
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '潘晓清'
 
 # Full name (for SEO)
 first_name: Xiaoqing
