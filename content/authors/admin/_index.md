@@ -148,7 +148,7 @@ languages:
   - name: German
     percent: 25
   - name: Spanish
-  - percent: 10
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
