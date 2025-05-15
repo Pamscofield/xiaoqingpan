@@ -20,7 +20,7 @@ publishDate: "2024-12-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*ACS Infect Dis"
 publication_short: ""
 
 abstract: In early 2024, the National Academies of Sciences, Engineering, and Medicine (NASEM) released a roadmap for the future of research into mapping ribonucleic acid (RNA) modifications, which underscored the importance of better defining these diverse chemical changes to the RNA macromolecule. As nearly all mature RNA molecules harbor some form of modification, we must understand RNA modifications to fully appreciate the functionality of RNA. The NASEM report calls for massive mobilization of resources and investment akin to the transformative Human Genome Project of the early 1990s. Like the Human Genome Project, a concerted effort in improving our ability to assess every single modification on every single RNA molecule in an organism will change the way we approach biological questions, accelerate technological advance, and improve our understanding of the molecular world. Consequently, we are also at the start of a revolution in defining the impact of RNA modifications in the context of host–microbe and even microbe–microbe interactions. In this perspective, we briefly introduce RNA modifications to the infection biologist, highlight key aspects of the NASEM report and exciting examples of RNA modifications contributing to host and pathogen biology, and finally postulate where infectious disease research may benefit from this exciting new endeavor in globally mapping RNA modifications.

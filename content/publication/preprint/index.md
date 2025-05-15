@@ -1,12 +1,16 @@
 ---
-title: "An example preprint / working paper"
+title: "Investigation of Aspergillus fumigatus small RNA biogenesis uncovers evidence of double-stranded RNA-dependent growth arrest"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Abdulrahman A. Kelani
+- Swatika Prabakar
+- Lukas Schrettenbrunner
+- Matthew G. Blango
+date: "2025-01-07T00:00:00Z"
+doi: "https://doi.org/10.1101/2024.05.24.595671"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,30 +18,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "bioRxiv"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Aspergillus fumigatus is a ubiquitous filamentous fungus and dangerous human pathogen that produces a limited pool of small RNAs, consisting in large part of tRNA-derived RNAs (tDRs). Here, we improve our understanding of the small RNAs produced in conidia and mycelium of A. fumigatus using small RNA-sequencing of strains lacking RNA interference (RNAi) machinery and a cutting-edge tDR-sequencing approach. We find little evidence of small RNAs dependent on the canonical RNAi machinery under laboratory growth conditions, but reveal tDRs to be differentially abundant across fungal morphotypes, with specific fragments proving dominant in each assessed condition (e.g., Asp(GTC)-5’tRH in conidia; His(GTG)-5’tRH in mycelium). Consistent with the literature, we observed distinct patterns of tDRs from nuclear- and mitochondria-derived tDRs, which was confirmed for wild-type fungus with tDR-seq. By inducing canonical RNAi with overexpression of an inverted-repeat transgene, we determined A. fumigatus to produce predominantly 20-nt, 5’ uridine-containing small RNAs from the transgene, a population reliant on Argonaute and Dicer-like proteins. Surprisingly, we found that overexpression of this double-stranded RNA (dsRNA) limited growth of both wild-type and RNAi-deficient strains, with a strain lacking the two A. fumigatus RNA-dependent RNA polymerase orthologs particularly vulnerable. Dicer-like- and Argonaute-double knockout strains with few detectable transgene-derived small RNAs were also susceptible to growth inhibition, suggesting excessive dsRNA limits growth in A. fumigatus. Ultimately, we have provided an improved description of small RNA biogenesis in A. fumigatus and uncovered an intriguing link between dsRNA metabolism and filamentous growth.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
-- Large Language Models
+- RNA interference
+- small RNA
+- Aspergillus fumigatus
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  url: https://www.biorxiv.org/content/10.1101/2024.05.24.595671v3
+# url_pdf: ''
+# url_code: ''
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -59,10 +65,10 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
