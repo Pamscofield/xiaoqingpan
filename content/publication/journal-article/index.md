@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Past, Present, and Future of RNA Modifications in Infectious Disease Research"
 authors:
 - admin
-- Robert Ford
+- Alexander Bruch
+- Matthew G. Blango
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Corresponding"
+date: "2024-12-01T00:00:00Z"
+doi: "10.1021/acsinfecdis.4c00598"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,19 +23,19 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In early 2024, the National Academies of Sciences, Engineering, and Medicine (NASEM) released a roadmap for the future of research into mapping ribonucleic acid (RNA) modifications, which underscored the importance of better defining these diverse chemical changes to the RNA macromolecule. As nearly all mature RNA molecules harbor some form of modification, we must understand RNA modifications to fully appreciate the functionality of RNA. The NASEM report calls for massive mobilization of resources and investment akin to the transformative Human Genome Project of the early 1990s. Like the Human Genome Project, a concerted effort in improving our ability to assess every single modification on every single RNA molecule in an organism will change the way we approach biological questions, accelerate technological advance, and improve our understanding of the molecular world. Consequently, we are also at the start of a revolution in defining the impact of RNA modifications in the context of host–microbe and even microbe–microbe interactions. In this perspective, we briefly introduce RNA modifications to the infection biologist, highlight key aspects of the NASEM report and exciting examples of RNA modifications contributing to host and pathogen biology, and finally postulate where infectious disease research may benefit from this exciting new endeavor in globally mapping RNA modifications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- RNA modifications
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1021/acsinfecdis.4c00598
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
@@ -61,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
