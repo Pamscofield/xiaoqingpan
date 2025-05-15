@@ -59,12 +59,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc in Bioengineering
+  - area: Mcs in Bioengineering
     institution: South China Botanical Garden, Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2021-06-01
     summary: |
       GPA: 3.8/4.0
+
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: BSc in Gardening
     institution: Hainan University
@@ -73,7 +78,10 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -176,7 +184,6 @@ awards:
 
 ## About Me
 
-” We choose to do this not because it is easy, but because it is hard “
 
 I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I’m curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
 
