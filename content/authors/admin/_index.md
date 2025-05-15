@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 潘晓清
+title: PAN Xiaoqing
 
 # Name pronunciation (optional)
 name_pronunciation: 'PAN Xiaoqing'
