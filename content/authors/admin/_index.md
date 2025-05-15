@@ -46,10 +46,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Microbiology
-  - Homo sapiens
-  - Fungi
 
 education:
   - area: PhD in Microbiology
@@ -84,6 +80,12 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+interests:
+  - Microbiology
+  - Homo sapiens
+  - Fungi
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
