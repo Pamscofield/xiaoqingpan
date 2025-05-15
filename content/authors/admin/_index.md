@@ -46,7 +46,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-
 education:
   - area: PhD in Microbiology
     institution: Hans Knoell Instistute, Germany
@@ -58,7 +57,9 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: Mcs in Bioengineering
-    institution: South China Botanical Garden, Chinese Academy of Sciences
+    institution: |
+      South China Botanical Garden
+      Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2021-06-01
     # summary: |
@@ -70,7 +71,7 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: BSc in Gardening
-    institution: Hainan University, Germany
+    institution: Hainan University, China
     date_start: 2012-09-01
     date_end: 2016-06-01
     # summary: |
@@ -161,7 +162,7 @@ awards:
     awarder: DAAD
     icon: DAAD
     # summary: |
-    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network's architecture; and apply deep learning to your own applications.
   - title: JSMC Travel Grant
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2022-10-01'
@@ -171,13 +172,13 @@ awards:
     #   Learned:
     #   - Synthesize your own blockchain solutions
     #   - Gain an in-depth understanding of the specific mechanics of Bitcoin
-    #   - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+    #   - Understand Bitcoin's real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin's Proof-of-Work consensus algorithm
 
 ---
 
 ## About Me
 
 
-I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I’m curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
+I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I'm curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
 
 Biology can also be applied: I study pathogenic fungi for the development of RNA-based theraputics to cure fungal infections.
