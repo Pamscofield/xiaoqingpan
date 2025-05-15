@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Das Turnfest 2025
+summary: Volunteer at German National Gymnastics, 2025
+date: 2025-05-28
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,12 +10,7 @@ image:
 
 authors:
   - admin
-  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Welcome 👋
