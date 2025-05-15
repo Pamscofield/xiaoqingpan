@@ -58,7 +58,7 @@ education:
     #   url: 'https://example.com'
   - area: Mcs in Bioengineering
     institution: |
-      South China Botanical Garden
+      South China Botanical Garden, 
       Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2021-06-01
@@ -182,3 +182,17 @@ awards:
 I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I'm curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
 
 Biology can also be applied: I study pathogenic fungi for the development of RNA-based theraputics to cure fungal infections.
+
+design:
+  css_class: dark
+  background:
+    color: black
+    image:
+      filename: stacked-peaks.svg
+      filters:
+        brightness: 1.0
+      size: cover
+      position: center
+      parallax: false
+  # Control the order of sections
+  is_education_first: true
