@@ -3,7 +3,7 @@
 title: 潘晓清
 
 # Name pronunciation (optional)
-name_pronunciation: PAN Xiaoqing
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Xiaoqing
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Hans Knoell Institute
     url: https://openai.com/
 
 # Social network links
@@ -47,9 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microbiology
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +181,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+” We choose to do this not because it is easy, but because it is hard “
+
+I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I’m curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
+
+Biology can also be applied: I study pathogenic fungi for the development of RNA-based theraputics to cure fungal infections.
