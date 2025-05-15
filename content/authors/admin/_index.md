@@ -53,7 +53,7 @@ education:
   - area: PhD in Microbiology
     institution: Hans Knoell Instistute
     date_start: 2021-06-16
-    date_end: Present
+    date_end: 2025-10-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
