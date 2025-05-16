@@ -1,5 +1,6 @@
 --- 
 title: My Second Blog
+summary: just don't look
 date: 2025-05-16
 authors:
   - admin
