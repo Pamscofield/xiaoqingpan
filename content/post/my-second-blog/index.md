@@ -2,7 +2,7 @@
 title: My Second Blog
 date: 2025-05-16
 authors:
-		- admin
+	- admin
 ---
 
 Here is the example workflow frm Andrej Karpathy (https://karpathy.github.io/2014/07/01/switching-to-jekyll/)
