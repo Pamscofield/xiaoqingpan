@@ -1,5 +1,5 @@
 ---
-title: "Rice miR168a-5p regulates seed length, nitrogen allocation and salt tolerance by targeting <i>OsOFP3</i>, <i>OsNPF2.4</i> and <i>OsAGO1a</i>, respectively"
+title: "Rice miR168a-5p regulates seed length, nitrogen allocation and salt tolerance by targeting *OsOFP3*, *OsNPF2.4* and *OsAGO1a*, respectively"
 authors:
 - Kuaifei Xia
 - admin
