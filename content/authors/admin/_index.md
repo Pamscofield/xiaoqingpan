@@ -44,7 +44,7 @@ profiles:
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-0894-7366
 
 education:
   - area: PhD in Microbiology
@@ -62,8 +62,11 @@ education:
       Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2021-06-01
-    # summary: |
-    #   GPA: 3.8/4.0
+    summary: |
+      Rice-Xoo interaction
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/8稿.pdf'
 
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
