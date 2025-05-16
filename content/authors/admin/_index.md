@@ -58,7 +58,7 @@ education:
     #   url: 'https://example.com'
   - area: MCs in Bioengineering
     institution: |
-      South China Botanical Garden, 
+      South China Botanical Garden,    
       Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2021-06-01
