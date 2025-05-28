@@ -53,6 +53,6 @@ In 2025, a group from Denmark has demonstrated that **Denisovans** were not just
 
 
 ## Reference
-[^1] A.P. Derevianko, M.V. Shunkov, P.V. Volkov. A PALEOLITHIC BRACELET FROM DENISOVA CAVE. Archaeology, Ethnology and Anthropology of Eurasia 34, 18-25 (2008). https://doi.org/10.1016/j.aeae.2008.07.002
-[^2] Krause, J., Fu, Q., Good, J. et al. The complete mitochondrial DNA genome of an unknown hominin from southern Siberia. Nature 464, 894–897 (2010). https://doi.org/10.1038/nature08976
-[^3] Takumi Tsutaya et al. ,A male Denisovan mandible from Pleistocene Taiwan.Science388,176-180(2025).DOI:10.1126/science.ads3888
+[^1]: A.P. Derevianko, M.V. Shunkov, P.V. Volkov. A PALEOLITHIC BRACELET FROM DENISOVA CAVE. Archaeology, Ethnology and Anthropology of Eurasia 34, 18-25 (2008). https://doi.org/10.1016/j.aeae.2008.07.002
+[^2]: Krause, J., Fu, Q., Good, J. et al. The complete mitochondrial DNA genome of an unknown hominin from southern Siberia. Nature 464, 894–897 (2010). https://doi.org/10.1038/nature08976
+[^3]: Takumi Tsutaya et al. ,A male Denisovan mandible from Pleistocene Taiwan.Science388,176-180(2025).DOI:10.1126/science.ads3888
