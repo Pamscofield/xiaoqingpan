@@ -23,9 +23,9 @@ From [**Nature Feature**](https://www.nature.com/articles/d41586-025-01549-3) Ma
 
 Archaeology is interesting, human archaeology is extremly interesting.
 
-I guess the story begins in 2008 that archaeologist from Novosibirsk institute (Michael Shunkov, et al) dug up a fossile of human finger bone in a **Denisova Cave** in the Altai Mountains (阿尔泰山) in southern Siberia and just simply assumed that it might be of of Neanderthals (*Homo neanderthalensis*) who left it between 30,000 and 48,000 years ago[^1]. 
+I guess the story begins in 2008 that archaeologist from Novosibirsk institute (Michael Shunkov, et al) dug up a fossile of human finger bone in a **Denisova Cave** in the Altai Mountains (阿尔泰山) in southern Siberia and just simply assumed that it might be of of Neanderthals (*Homo neanderthalensis*) who left it between 30,000 and 48,000 years ago [^1]. 
 
-Later, a team from **Max Planck Institute for Evolutionary Anthropology** in Leipzig (Johannes Krause, et al) got the fossile and sequenced the mtDNA and found out it didn't match to Neanderthals[^1]. They named it **Denisovan** in the end since it was found in a denisova cave. 
+Later, a team from **Max Planck Institute for Evolutionary Anthropology** in Leipzig (Johannes Krause, et al) got the fossile and sequenced the mtDNA and found out it didn't match to Neanderthals [^2]. They named it **Denisovan** in the end since it was found in a denisova cave. 
 
 It's the fourth Homo species found, followed after *Homo sapiens* (modern humans), *Homo neanderthalensis* (Neanderthals), *Homo floresiensis*, which was found in Indonesia in 2003. 
 
@@ -42,7 +42,7 @@ Nine months later, the same team from Leipzig, Germany demonstrated that Denisov
 
 [Molar tooth](d41586-025-01549-3_50986400.webp)
 
-In 2025, a group from Denmark has demonstrated that **Denisovans** were not just found in cold regions like Siberia and Tibet, but also in Penghu, Taiwan (台湾澎湖岛)[^3]. It is the first time **Denisovans** were found in warm climates. The way they identified was to use  ancient proteomic analysis on a previously unidentified hominin mandible. 
+In 2025, a group from Denmark has demonstrated that **Denisovans** were not just found in cold regions like Siberia and Tibet, but also in Penghu, Taiwan (台湾澎湖岛) [^3]. It is the first time **Denisovans** were found in warm climates. The way they identified was to use  ancient proteomic analysis on a previously unidentified hominin mandible. 
 
 
 
