@@ -1,5 +1,5 @@
 ---
-title: Where were Denisovan?
+title: Where were Denisovans?
 summary: Who were the ancient Denisovans? Fossils reveal secrets about the mysterious humans
 date: 2025-05-21
 
