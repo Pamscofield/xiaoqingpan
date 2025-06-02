@@ -90,29 +90,22 @@ interests:
   - Homo sapiens
   - Fungi
 
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: PhD Candidate
+    company_name: Hans Knoell Institute
+    company_url: 'https://www.leibniz-hki.de/en/'
+    date_start: 2021-06-16
+    date_end: ''
+    summary: |
+      Research on RNA-based therapeutics for pathogenic fungi
+  # Add more work experiences as needed
+  # - position: Your Position
+  #   company_name: Company Name
+  #   company_url: ''
+  #   date_start: YYYY-MM-DD
+  #   date_end: YYYY-MM-DD
+  #   summary: |
+  #     Your responsibilities and achievements
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
