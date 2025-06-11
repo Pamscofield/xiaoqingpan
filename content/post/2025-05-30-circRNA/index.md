@@ -21,6 +21,8 @@ From [**the microbiologist**](https://www.the-microbiologist.com/news/loophole-h
 
 In this HIV-human crosskingdom communication research, previously it was already found circRNAs in human, animal cells and some viruses (mainly DNA viruses). These viruses  have big genomes and can stay hidden in the body for years before becoming active again. The newest paper from [**npj Viruses**](https://www.nature.com/articles/s44298-025-00105-0#) marks HIV (as an RNA virus) for the first time generating circRNAs and hijack those circRNAs to the human host sponging human sRNAs. 
 
+Sadly I don't find any reads mapped to the spacer region of our IRT strains.
+
 
 
 ## Reference
