@@ -1,13 +1,23 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Snakemake Tutorial for sRNA-seq Analysis
+summary: Snakemake Tutorial for sRNA-seq Analysis
+date: 2025-06-11
+
+image:
+  caption: 'Image credit: [**Snakemake**](https://snakemake.readthedocs.io/en/stable/index.html)'
+
+authors:
+  - admin
+
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Snakemake
+  - sRNA-seq
+  - RNA-seq
+
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Not until a trillion times that I have to analyze the sRNA-seq data that I finally decide to learn **Snakemake** language, with the help of **Gemini** of course... because **chatGPT** crashed yesterday.
 
-<!--more-->
+Better late than never :)
+
+Check my github repository (Pamscofield/sRNA-seq-analysis) and have fun!
