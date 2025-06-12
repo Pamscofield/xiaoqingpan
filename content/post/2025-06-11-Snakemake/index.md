@@ -20,4 +20,8 @@ Not until a trillion times that I have to analyze the sRNA-seq data that I final
 
 Better late than never :)
 
+<<<<<<< HEAD
 Check my github repository (Pamscofield/sRNA-seq-analysis) and have fun!
+=======
+Check my github repository (Pamscofield/sRNA-seq-analysis) and have fun!
+>>>>>>> cc8197f33fe5ed5c11f012edec83db722eb1decb
