@@ -1,7 +1,7 @@
 ---
-title: Jena RNA Club
+title: Life Sciences AG Fair
 
-event: Hugo Blox Builder Conference
+event: Life Sciences AG Fair
 #event_url: https://example.org
 
 location: Jena, Germany
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-01T13:00:00Z'
-date_end: '2024-09-01T15:00:00Z'
+date: '2025-06-12T13:00:00Z'
+date_end: '2025-06-12T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-09-01T00:00:00Z'
+publishDate: '2025-06-13T00:00:00Z'
 
 authors:
   - admin
@@ -32,9 +32,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 #links:
 #  - icon: twitter
