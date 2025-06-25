@@ -98,6 +98,8 @@ Presumably, dsRNA with introns stays in nucleus, some dsRNA with 3'UTR are expor
 ## How many endogenous dsRNA are immunogenic, what is their identity?
 Among ADAR family, ADAR1-p150 is thought to be most important for marking endogenous dsRNA as "self" and loss of ADAR causes activation of MDA5 and PKR. 
 
+-----
+Last but not least, thank Kyle, Ryan and the legend Branda Bass for such an incredible review!
 
 
 **Reference**:  
