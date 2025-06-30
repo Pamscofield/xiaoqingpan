@@ -33,7 +33,7 @@ As it's already known, that *Aspergillus fumigatus* and some *Candida* species c
 
 
 ## What is known about *Mucor* and IFN?
-*Mucor* has not been reported to induce INF response, but one study incubated polymorphonuclear leukocytes (PMNLs)  with IFN-γ for 22 h [^1], and the result showed:  
+*Mucor* has not been reported to induce INF response, but one study incubated polymorphonuclear leukocytes (PMNLs)  with IFN-γ for 22 h [^3], and the result showed:  
 - the coincubation increased the PMNL-induced hyphal damage of *R. oryzae*, *R. microsporus* and *L. corymbifera*. 
 - Coincubation of PMNLs with IFN-γ and granulocyte-macrophage colony-stimulating factor (GM-CSF)increased the release of tumor necrosis factor–α in response to *R. microsporus* and *L. corymbifera* hyphae. 
 - IFN-γ significantly reduced interleukin-8 release in response to all zygomycetes.
