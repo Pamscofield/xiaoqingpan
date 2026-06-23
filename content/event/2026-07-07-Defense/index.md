@@ -44,7 +44,7 @@ featured: false
 url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'content/event/2026-07-07-Defense/Defense_video.mp4'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -75,4 +75,4 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
 
 
-{{< video src="presentation.mp4" controls="yes" >}}
+{{< video src="Defense_video.mp4" controls="yes" >}}
