@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Hugo
+/public/
+/resources/
+/_site/
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# OS
+.DS_Store

@@ -1,0 +1,11 @@
+---
+title: An Improved Description of the Small RNA Landscape of the Human Fungal Pathogen Aspergillus fumigatus
+date: 2026-01-02
+tags:
+  - small RNA
+  - Aspergillus fumigatus
+  - double-stranded RNA
+  - RNA interference
+---
+
+Aspergillus fumigatus is a ubiquitous filamentous fungus and dangerous human pathogen that produces a limited pool of small RNAs under standard laboratory conditions. To better understand the rules of small RNA production in A. fumigatus, we induced canonical RNA interference (RNAi) via overexpression of two separate inverted-repeat transgenes. We observed production of predominantly 20-nt, 5′ uridine-containing small RNAs from the 3′ end of each transgene nearest to the loop region and dependent on dicer-like B RNase III enzyme. Using this refined knowledge, we assessed small RNA biogenesis by sRNA-seq in three double knockout strains of the RNAi pathway, namely the dicer-like proteins (ΔdclA/B), argonautes (ΔppdA/B), and RNA-dependent RNA polymerases (ΔrrpA/B). In each case, we found limited evidence for production of 5′ U-containing small RNAs reliant on the RNAi machinery under standard laboratory conditions. We did observe 5′ U-containing small RNAs amongst the abundant tRNA-derived RNAs (tDRs); however, biogenesis of tDRs was predominantly Dicer-like independent. To more accurately define the complex tDR repertoire, we employed a cutting-edge tDR-sequencing approach that improved tRNA-half detection and revealed qualitative morphotype-specific changes in the small RNA fraction of conidia relative to mycelium. Finally, leveraging the limited sRNA repertoire of A. fumigatus, we tested the consequences of inverted-repeat transgene overexpression in the ΔdclA/B double knockout, which revealed growth inhibition even in the absence of double-stranded RNA (dsRNA) processing and small RNA production. We hypothesize that the RNAi substrate-limited landscape of A. fumigatus facilitates sensitivity to increases in dsRNA, offering an intriguing system for future studies of dsRNA metabolism.
