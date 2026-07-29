@@ -3,8 +3,8 @@
 /* Base Typography */
 body {
     font-family: "Source Serif 4", serif !important;
-    background-color: #ffffff !important;
-    color: #111111 !important;
+    background: linear-gradient(180deg, #f4f7fb 0%, #ffffff 35%, #f7fbff 100%) !important;
+    color: #1f2937 !important;
     line-height: 1.75;
 }
 
@@ -12,16 +12,27 @@ body {
 h1, h2, h3, h4, h5, h6, .article-title, .section-heading h1 {
     font-family: "Playfair Display", serif !important;
     font-weight: 700 !important;
-    color: #000000 !important;
-    letter-spacing: -0.5px;
+    color: #0f172a !important;
+    letter-spacing: -0.02em;
 }
 
 /* Make section headers look like journal sections */
 .section-heading h1 {
     font-size: 1.8rem !important;
-    border-bottom: 1px solid #dddddd;
+    border-bottom: none;
     padding-bottom: 0.5rem;
     margin-bottom: 2rem;
+    position: relative;
+}
+
+.section-heading h1::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 80px;
+    height: 2px;
+    background: linear-gradient(90deg, #2563eb, #06b6d4);
 }
 
 /* Navigation Bar */
@@ -30,24 +41,29 @@ h1, h2, h3, h4, h5, h6, .article-title, .section-heading h1 {
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background-color: #ffffff !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important;
+    background: rgba(255, 255, 255, 0.86) !important;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 6px 20px rgba(15, 23, 42, 0.06) !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.08);
 }
 
 .navbar-light .navbar-nav .nav-link {
     color: #333333 !important;
+    transition: color 0.2s ease, transform 0.2s ease;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #000000 !important;
-    text-decoration: underline;
+    color: #0f172a !important;
+    text-decoration: none;
+    transform: translateY(-1px);
 }
 
 /* Remove Card Styles for a Flat, Journal Look */
 .card {
-    border: none !important;
-    box-shadow: none !important;
-    background: transparent !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06) !important;
+    background: rgba(255, 255, 255, 0.92) !important;
+    border-radius: 16px !important;
 }
 
 /* Publications List Adjustments */
@@ -69,8 +85,8 @@ h1, h2, h3, h4, h5, h6, .article-title, .section-heading h1 {
 
 /* Hide Avatar shadow and make it blend in */
 .avatar {
-    box-shadow: none !important;
-    border-radius: 0 !important; /* Optional: makes the image square for a classic look */
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.18) !important;
+    border-radius: 18px !important;
 }
 
 /* Footer */
@@ -78,7 +94,7 @@ h1, h2, h3, h4, h5, h6, .article-title, .section-heading h1 {
     font-family: "Inter", sans-serif !important;
     font-size: 0.85rem;
     color: #777777 !important;
-    border-top: 1px solid #eeeeee;
+    border-top: 1px solid rgba(15, 23, 42, 0.08);
     padding-top: 2rem;
     background: transparent !important;
 }
@@ -101,4 +117,10 @@ h1, h2, h3, h4, h5, h6, .article-title, .section-heading h1 {
 
 .home-section.dark .btn {
     border-color: #ffffff !important;
+}
+
+.home-section.dark h1,
+.home-section.dark h2,
+.home-section.dark p {
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
 }
